@@ -1,5 +1,3 @@
-### Coki Skoki
-
 # Coki Skoki
 
 ## Description
@@ -21,8 +19,10 @@ Since Skoki is jumpy, but not that bright and he can use only small numbers, aft
 ## Examples
 
 * _Exampel 1:_
+![Example 1](imgs/example-1.png)
 
-* _Exampel 1:_
+* _Exampel 2:_
+![Example 2](imgs/example-2.png)
 
 ## Input
 
