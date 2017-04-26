@@ -10,7 +10,7 @@ function solve(args) {
     let currentPosition = { r: Math.ceil(R / 2) - 1, c: Math.ceil(C / 2) - 1 },
         currentCell;
 
-    let delta = {
+    const delta = {
         3: [-1, 0], //UP
         2: [0, 1],  //RIGTH
         1: [1, 0],  //DOWN
