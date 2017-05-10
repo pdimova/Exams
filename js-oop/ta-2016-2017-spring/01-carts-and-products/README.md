@@ -1,3 +1,5 @@
+Original files here: http://bgcoder.com/Contests/378/JavaScript-OOP-10-September-2016-18-00
+
 # Carts and Products
 
 -   Implement a functionality to serve a Shopping Center
