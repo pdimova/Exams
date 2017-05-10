@@ -1,8 +1,8 @@
 {
-  "name": "es5",
+  "name": "carts-and-products-es5",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
+  "main": "startup.js",
   "scripts": {
     "test": "node_modules/mocha/bin/_mocha tests"
   },

@@ -1,8 +1,8 @@
 {
-  "name": "es6",
+  "name": "carts-and-products-es6",
   "version": "1.0.0",
   "description": "",
-  "main": "product.js",
+  "main": "startup.js",
   "scripts": {
     "test": "node_modules/mocha/bin/_mocha tests"
   },
