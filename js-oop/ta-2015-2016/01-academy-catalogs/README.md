@@ -1,3 +1,5 @@
+original materials here: http://bgcoder.com/Contests/255/JavaScript-OOP-09-July-2015-18-00
+
 #Academy Online Catalogs
 
 *   Implement a functionality to serve an Academy Online Catalogs
