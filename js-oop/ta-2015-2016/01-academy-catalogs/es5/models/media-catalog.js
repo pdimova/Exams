@@ -44,11 +44,11 @@ MediaCatalog.prototype.getTop = function (count) {
 };
 
 MediaCatalog.prototype.getSortedByDuration = function () {
-    this.items
+    return this.items
         .slice(0)
         .sort(function (a, b) {
             if (a.duration === b.duration) {
-                return a.duration - b.duration;
+                return a.id - b.id;
             }
 
             return b.duration - a.duration;
